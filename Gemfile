@@ -23,6 +23,9 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 gem 'jquery-rails', '~> 4.3.1'
 
+gem 'pg', group: :production
+
+
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
